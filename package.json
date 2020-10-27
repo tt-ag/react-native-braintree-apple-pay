@@ -13,7 +13,7 @@
   "author": "san-smith",
   "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2"
+    "react-native": "^0.61.0"
   },
-  "homepage": "https://github.com/digital-design-nyc/react-native-braintree-apple-pay"
+  "homepage": "https://github.com/tt-ag/react-native-braintree-apple-pay"
 }
